@@ -1,0 +1,6 @@
+html{background-color: black;}
+#first{height: 400px; width: 600px;margin: 40px 600px 0px 600px; border:5px solid khaki;}
+#second{margin-left: 600px;}
+h1{font-size: 40PX; color: white; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align:left; font-weight: 800; margin-left: 60px;}
+p{font-size: 20px; color: rebeccapurple;font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;margin-left: 680px;}
